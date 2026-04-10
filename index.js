@@ -1,14 +1,14 @@
-/**
- * Knight Bot - A WhatsApp Bot
- * Copyright (c) 2024 Professor
- * 
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the MIT License.
- * 
- * Credits:
+/*
+ * TOM PRIME X BOT - A Powerful WhatsApp Bot
+ * Copyright (c) 2026 TOM PRIME X
+ * * GitHub: https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT
+ * YouTube: https://youtube.com/@saycotom
+ * * Credits:
  * - Baileys Library by @adiwajshing
- * - Pair Code implementation inspired by TechGod143 & DGXEON
+ * - Base Code by Professor
+ * - Modified & Maintained by TOM PRIME X
  */
+
 require('./settings')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
