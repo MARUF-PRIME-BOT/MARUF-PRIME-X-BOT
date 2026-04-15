@@ -284,7 +284,8 @@ async function startXeonBotInc() {
                 console.error('Error sending connection message:', error.message)
             }
 
-            await delay(1999)
+            global.botname = 'TOM PRIME X BOT';
+            await delay(1999);
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'TOM PRIME X BOT'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
             console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: SAYCO TOM`))
