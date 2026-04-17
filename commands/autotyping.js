@@ -1,5 +1,5 @@
 /**
- * Knight Bot - A WhatsApp Bot
+ * Tom Prime X Bot - A WhatsApp Bot
  * Autotyping Command - Shows fake typing status
  */
 
