@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png](https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg)" width="300" height="300" alt="TOM-PRIME-X-BOT">
+  <img src="[[https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png](https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg)](https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg)" width="300" height="300" alt="TOM-PRIME-X-BOT">
 </p>
 
 <h1 align="center">✨ 𝗔𝗥•~𝗠𝗔𝗥𝗨𝗙-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐁𝐎𝐓 ✨</h1>
