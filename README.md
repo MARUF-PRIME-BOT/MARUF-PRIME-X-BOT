@@ -60,6 +60,6 @@
 2. **Go to setting.js or Config**
 3. **Set Environment Variables:**
    ```env
-   BOT_NAME     = 𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓
-   BOT_OWNER    = 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐓𝐎𝐌 𝐗
-   OWNER_NUMBER = "880**********"
+   BOT_NAME     = 𝗠𝗔𝗥𝗨𝗙 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓
+   BOT_OWNER    = 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝗠𝗔𝗥𝗨𝗙 𝐗
+   OWNER_NUMBER = "8801926232615"
