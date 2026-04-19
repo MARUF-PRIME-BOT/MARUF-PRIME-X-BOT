@@ -3,11 +3,11 @@ const fetch = require('node-fetch');
 
 async function githubCommand(sock, chatId, message) {
   try {
-    const res = await fetch('https://api.github.com/repos/TOM-PRIME-X/TOM-PRIME-X-BOT');
+    const res = await fetch('https://github.com/MARUF-PRIME-BOT/MARUF-PRIME-X-BOT');
     if (!res.ok) throw new Error('Error fetching repository data');
     const json = await res.json();
 
-    let txt = `*乂  TOM PRIME X BOT  乂*\n\n`;
+    let txt = `*乂  MARUF PRIME X BOT  乂*\n\n`;
     txt += `✩  *Name* : ${json.name}\n`;
     txt += `✩  *Watchers* : ${json.watchers_count}\n`;
     txt += `✩  *Size* : ${(json.size / 1024).toFixed(2)} MB\n`;
@@ -16,7 +16,7 @@ async function githubCommand(sock, chatId, message) {
     txt += `✩  *Forks* : ${json.forks_count}\n`;
     txt += `✩  *Stars* : ${json.stargazers_count}\n\n`;
     txt += `📺 *YouTube:* https://youtube.com/@saycotom\n\n`;
-    txt += `💥 *Powered by TOM PRIME X*`;
+    txt += `💥 *Powered by MARUF PRIME X*`;
 
     const myNewPic = 'https://i.postimg.cc/KjB0QNtn/1000086494.png';
 
