@@ -2,9 +2,9 @@ const settings = require("../settings");
 
 async function aliveCommand(sock, chatId, message) {
     try {
-        const message1 = `✨ *TOM PRIME X IS ALIVE!* ✨\n\n` +
+        const message1 = `✨ *MARUF PRIME X IS ALIVE!* ✨\n\n` +
                        `💎 *Version:* ${settings.version || '1.1.5'}\n` +
-                       `👑 *Owner:* TOM-PRIME-X\n` +
+                       `👑 *Owner:* MARUF-PRIME-X\n` +
                        `🌍 *Status:* Online & Ready\n` +
                        `📂 *GitHub:* https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT\n\n` +
                        `🌟 *Features:*\n` +
@@ -13,7 +13,7 @@ async function aliveCommand(sock, chatId, message) {
                        `• Media Downloader\n` +
                        `• Fun & Games\n\n` +
                        `Type *.menu* for full command list\n\n` +
-                       `🚀 *Powered by TOM PRIME X*`;
+                       `🚀 *Powered by MARUF PRIME X*`;
 
         await sock.sendMessage(chatId, {
             text: message1,
