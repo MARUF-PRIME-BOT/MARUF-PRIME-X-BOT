@@ -6,7 +6,7 @@ async function aliveCommand(sock, chatId, message) {
                        `💎 *Version:* ${settings.version || '1.1.5'}\n` +
                        `👑 *Owner:* MARUF-PRIME-X\n` +
                        `🌍 *Status:* Online & Ready\n` +
-                       `📂 *GitHub:* https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT\n\n` +
+                       `📂 *GitHub:* https://github.com/MARUF-PRIME-BOT/MARUF-PRIME-X-BOT\n\n` +
                        `🌟 *Features:*\n` +
                        `• Group Management\n` +
                        `• AI & Chat (GPT/Gemini)\n` +
@@ -23,7 +23,7 @@ async function aliveCommand(sock, chatId, message) {
                 externalAdReply: {
                     title: 'TOM-PRIME-X OFFICIAL',
                     body: 'Subscribe to my YouTube Channel',
-                    thumbnailUrl: 'https://github.com/TOM-PRIME-X.png',
+                    thumbnailUrl: 'https://github.com/MARUF-PRIME-BOT/MARUF-PRIME-X-BOT',
                     sourceUrl: 'https://youtube.com/@saycotom?si=7QiSIta2cfsdCbtW',
                     mediaType: 1,
                     renderLargerThumbnail: true
