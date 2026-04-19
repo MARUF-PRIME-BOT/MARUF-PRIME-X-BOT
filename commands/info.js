@@ -10,12 +10,12 @@ async function infoCommand(sock, chatId, message) {
 ➥ 𝐇𝐞𝐲 𝐌𝐫/𝐦𝐢𝐬𝐬 
 ╭────《  𝐌𝐘 𝐒𝐄𝐋𝐅 》────⊷
 │ ╭────────✧❁✧────────◆
-│ │ 🌸 𝐍𝐀𝐌𝐄 :- 𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄-𝐗
+│ │ 🌸 𝐍𝐀𝐌𝐄 :- 𝘼𝙍•~𝙈𝘼𝙍𝙐𝙁-𝐏𝐑𝐈𝐌𝐄-𝐗
 │ │ 🏡 𝐅𝐑𝐎𝐌 :- 𝐃𝐇𝐀𝐊𝐀 
 │ │ 📘 𝐂𝐋𝐀SS𝐒 :- 𝐇𝐈𝐃𝐄 
-│ │ 💖 𝐑𝐋𝐒 :- 𝐒𝐈𝐍𝐆𝐋𝐄 𝐔𝐋𝐓𝐀 𝐏𝐑𝐎 𝐌𝐀𝐗
+│ │ 💖 𝐑𝐋𝐒 :- 𝙊𝙉𝙇𝙔 𝘼𝙁𝙎𝘼𝙉𝘼
 │ │ 🎯 𝐇𝐎𝐁𝐁𝐘 :- 𝐑𝐈𝐃𝐄 
-│ │ ☎️ 𝐍𝐔𝐌𝐁𝐄𝐑 :- 8801892625209
+│ │ ☎️ 𝐍𝐔𝐌𝐁𝐄𝐑 :- 8801926232615
 │ │ ..𝐘𝐎𝐔 𝐂𝐀𝐍 𝐒𝐄𝐄 𝐌𝐘 𝐒𝐓𝐀𝐓𝐔𝐒..
 │ ╰────────✧❁✧────────◆
 ╰══════════════════⊷
@@ -29,7 +29,7 @@ async function infoCommand(sock, chatId, message) {
 • Total Memory   : ${(os.totalmem() / (1024 ** 3)).toFixed(2)} GB
 • Free Memory    : ${(os.freemem() / (1024 ** 3)).toFixed(2)} GB
 
-   *Powered by TOM PRIME X*`;
+   *Powered by MARUF PRIME X*`;
 
         const imageUrl = "https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg";
 
