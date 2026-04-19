@@ -231,11 +231,11 @@ async function helpCommand(sock, chatId, message) {
    ┕━━━━━━━━━━━━━━━━━━━━┙
 
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      *Powered by TOM PRIME X*
+      *Powered by MARUF PRIME X*
      _Luxury Redefined • Dhaka 2026_`;
 
     try {
-        const myPic = 'https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png';
+        const myPic = 'https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg';
         await sock.sendMessage(chatId, { 
             image: { url: myPic }, 
             caption: helpMessage,
