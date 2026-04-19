@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png" width="300" height="300" alt="TOM-PRIME-X-BOT">
+  <img src="https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg" width="300" height="300" alt="𝗠𝗔𝗥𝗨𝗙-PRIME-X-BOT">
 </p>
 
-<h1 align="center">✨ 𝐓𝐎𝐌-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐁𝐎𝐓 ✨</h1>
+<h1 align="center">✨ 𝗠𝗔𝗥𝗨𝗙-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐁𝐎𝐓 ✨</h1>
 
 <p align="center">
   <a href="https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT/stargazers"><img src="https://img.shields.io/github/stars/TOM-PRIME-X/TOM-PRIME-X-BOT?color=blue&style=for-the-badge" alt="Stars"></a>
