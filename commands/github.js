@@ -18,7 +18,7 @@ async function githubCommand(sock, chatId, message) {
     txt += `📺 *YouTube:* https://youtube.com/@saycotom\n\n`;
     txt += `💥 *Powered by MARUF PRIME X*`;
 
-    const myNewPic = 'https://i.postimg.cc/KjB0QNtn/1000086494.png';
+    const myNewPic = 'https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg';
 
     await sock.sendMessage(chatId, { 
         image: { url: myNewPic }, 
