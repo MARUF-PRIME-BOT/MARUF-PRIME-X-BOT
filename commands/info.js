@@ -31,7 +31,7 @@ async function infoCommand(sock, chatId, message) {
 
    *Powered by TOM PRIME X*`;
 
-        const imageUrl = "https://i.postimg.cc/pVF8rw2m/IMG-20260329-WA0128.jpg";
+        const imageUrl = "https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg";
 
         await sock.sendMessage(chatId, { 
             image: { url: imageUrl }, 
