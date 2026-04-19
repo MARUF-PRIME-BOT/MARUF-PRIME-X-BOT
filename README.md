@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png" width="300" height="300" alt="TOM-PRIME-X-BOT">
+  <img src="[https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png](https://i.postimg.cc/SQg603Y9/Screenshot-20260419-155158-Tik-Tok.jpg)" width="300" height="300" alt="TOM-PRIME-X-BOT">
 </p>
 
-<h1 align="center">✨ 𝐓𝐎𝐌-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐁𝐎𝐓 ✨</h1>
+<h1 align="center">✨ 𝗔𝗥•~𝗠𝗔𝗥𝗨𝗙-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐁𝐎𝐓 ✨</h1>
 
 <p align="center">
   <a href="https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT/stargazers"><img src="https://img.shields.io/github/stars/TOM-PRIME-X/TOM-PRIME-X-BOT?color=blue&style=for-the-badge" alt="Stars"></a>
@@ -60,6 +60,6 @@
 2. **Go to setting.js or Config**
 3. **Set Environment Variables:**
    ```env
-   BOT_NAME     = 𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓
-   BOT_OWNER    = 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐓𝐎𝐌 𝐗
-   OWNER_NUMBER = "880**********"
+   BOT_NAME     = 𝗠𝗔𝗥𝗨𝗙 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓
+   BOT_OWNER    = 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝗠𝗔𝗥𝗨𝗙 𝐗
+   OWNER_NUMBER = "8801926232615"
